@@ -3,4 +3,4 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&pause=1000&color=B81FF7&background=77FF3500&width=450&lines=Soy+H4ckerLite+un%20principinte+del+hacking+y+las+CTF%20)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&pause=1000&color=B81FF7&background=77FF3500&width=480&lines=Soy+H4ckerLite+un%20principinte+del+hacking+y+las+CTF%20)](https://git.io/typing-svg)
